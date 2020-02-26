@@ -1,0 +1,5 @@
+**/.vscode
+**/venv
+**/.awsconfig
+**/__pycache__
+downloaded_list_objects.py
