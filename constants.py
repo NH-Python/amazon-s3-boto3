@@ -1,1 +1,1 @@
-BUCKET_NAME="nh-python-bucket"
+BUCKET_NAME = "nh-python-bucket"
