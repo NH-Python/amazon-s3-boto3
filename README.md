@@ -1,5 +1,6 @@
 # Amazon S3 with `boto3`
 
+[Presentation Slides](https://docs.google.com/presentation/d/1uMYRtHMHqkteUdVO1WdvpC506LGaq9krTKdHZkxYasw/edit?usp=sharing)
 
 ## Initial Setup
 (These steps work for me; they may need to be tweaked to run in your environment)
